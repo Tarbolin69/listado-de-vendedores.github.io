@@ -1,0 +1,40 @@
+baseURL = 'http://listado-vendedores-costa.xyz/'
+languageCode = 'es-ar'
+title = 'Listado de Vendedores - La Costa'
+theme="archie"
+copyright= "© Nicolas Ortega"
+googleAnalytics = 'G-1YH6NXG8CR'
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+[params]
+	mode="auto"
+	useCDN=false
+[[params.social]]
+name = "Municipalidad"
+icon = "briefcase"
+url = "https://lacosta.gob.ar/"
+
+[[params.social]]
+name = "Contacto"
+icon = "mail"
+url = "mailto:nicolas@solcaronte.xyz"
+[[menu.main]]
+name = "Inicio"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Localidades"
+url = "/tags"
+weight = 2
+
+[[menu.main]]
+name = "Acerca"
+url = "/about"
+weight = 3
+
+[[menu.main]]
+name = "Listado"
+url = "/posts"
+weight = 4
