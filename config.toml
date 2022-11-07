@@ -27,7 +27,7 @@ weight = 2
 
 [[menu.main]]
 name = "Negocios"
-url = "/posts"
+url = "/tags/negocio"
 weight = 3
 
 [[menu.main]]
