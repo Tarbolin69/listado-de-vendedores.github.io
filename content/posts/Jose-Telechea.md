@@ -2,7 +2,7 @@
 title: 033133 | Jose Telechea | 44546647
 date: November 6, 2022
 draft: false
-tags: [tag names]
+tags: ['san-clemente']
 ---
 
 |          **Datos**         |                  /                 |
