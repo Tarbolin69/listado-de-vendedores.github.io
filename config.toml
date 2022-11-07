@@ -2,7 +2,7 @@ baseURL = 'https://tarbolin69.github.io/listado-de-vendedores.github.io/'
 languageCode = 'es-ar'
 title = 'Listado de Vendedores - La Costa'
 theme="archie"
-copyright= "© Nicolas Ortega"
+copyright= "© Sol Caronte"
 googleAnalytics = 'G-1YH6NXG8CR'
 pygmentsstyle = "monokai"
 pygmentscodefences = true
@@ -19,10 +19,6 @@ url = "https://lacosta.gob.ar/"
 name = "Contacto"
 icon = "mail"
 url = "mailto:nicolas@solcaronte.xyz"
-[[menu.main]]
-name = "Inicio"
-url = "/"
-weight = 1
 
 [[menu.main]]
 name = "Localidades"
@@ -30,11 +26,11 @@ url = "/tags"
 weight = 2
 
 [[menu.main]]
-name = "Acerca"
-url = "/about"
+name = "Negocios"
+url = "/posts"
 weight = 3
 
 [[menu.main]]
-name = "Listado"
-url = "/posts"
+name = "Municipalidad"
+url = "https://lacosta.gob.ar/"
 weight = 4
