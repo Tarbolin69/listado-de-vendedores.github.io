@@ -1,5 +1,5 @@
 ---
-title: Title of the post
+title: Vera Griselda
 date: November 7, 2022
 draft: false
 tags: ['las-toninas']
@@ -7,7 +7,7 @@ tags: ['las-toninas']
 
 | **Datos**                    | /                             |
 | :--------------------------: | :-:                           |
-| **Nombre Y Apellido:**       | Griselda Vera                 |
+| **Nombre Y Apellido:**       | Griselda Vera / 24812685      |
 | **V o T:**                   | Titular                       |
 | **Numero Unico:**            | 077345                        |
 | **Localidad y Direccion:**   | Las Toninas / Calle 29 y 7 |

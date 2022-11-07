@@ -5,14 +5,14 @@ draft: false
 tags: ['mar-del-tuyu']
 ---
 
-| **Datos**                    | /            |
-| :--------------------------: | :-:          |
-| **Nombre Y Apellido:**       | Diego lobos  |
-| **V o T:**                   | Titular      |
-| **Numero Unico:**            | 800345       |
-| **Localidad y Direccion:**   | Mar del Tuyu |
-| **Telefono:**                | 2246441282   |
-| **Rubro**                    | Licuados     |
+| **Datos**                    | /                      |
+| :--------------------------: | :-:                    |
+| **Nombre Y Apelido:**       | Diego lobos / 22512806 |
+| **V o T:**                   | Titular                |
+| **Numero Unico:**            | 800345                 |
+| **Localidad y Direccion:**   | Mar del Tuyu           |
+| **Telefono:**                | 2246441282             |
+| **Rubro**                    | Licuados               |
 
 **Estado de Pago:** Completo
 
