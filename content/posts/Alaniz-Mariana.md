@@ -14,6 +14,6 @@ tags: ['santa_teresita', 'choclos']
 | **Teléfono:**                | 2246585735                |
 | **Rubro**                    | Choclos                   |
 
-**Estado de Pago:** <span style="color:blue">**Completo y Legal**</span>
+**Estado de Pago:** ***-Completo y Legal-***
 
 **Correo:** N/A

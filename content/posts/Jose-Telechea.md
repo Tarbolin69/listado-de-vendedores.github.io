@@ -14,6 +14,6 @@ tags: ['san-clemente', 'panchos']
 |        **Teléfono:**        |              2252450892              |
 |          **Rubro**          |               Panchos                |
 
-**Estado de Pago:** <span style="color:green">**Completo**</span>
+**Estado de Pago:** **Completo**
 
 **Correo:** N/A

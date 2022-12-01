@@ -1,5 +1,5 @@
 baseURL = 'https://tarbolin69.github.io/listado-de-vendedores.github.io/'
-languageCode = 'es-ar'
+languageCode = 'es'
 title = 'Listado de Vendedores - La Costa'
 theme="archie"
 copyright= "© Sol Caronte"
