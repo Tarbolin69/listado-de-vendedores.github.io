@@ -5,14 +5,14 @@ draft: false
 tags: [tag names]
 ---
 
-|          **Datos**         | / |
-|:--------------------------:|:-:|
-| **Nombre Y Apellido:**     |   |
-| **V o T:**                 |   |
-| **Numero Unico:**          |   |
-| **Localidad y Direccion:** |   |
-| **Telefono:**              |   |
-| **Rubro**                  |   |
+|          **Datos**          | / |
+|:---------------------------:|:-:|
+| **Nombre, Apellido y DNI:** |   |
+|         **V o T:**          |   |
+|      **Numero Único:**      |   |
+| **Localidad y Dirección:**  |   |
+|        **Teléfono:**        |   |
+|          **Rubro**          |   |
 
 **Estado de Pago:** N/A
 

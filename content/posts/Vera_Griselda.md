@@ -1,19 +1,19 @@
 ---
-title: Vera Griselda
-date: November 7, 2022
+title: 077345 | Vera Griselda | 24812685
+date: Noviembre 7, 2022
 draft: false
-tags: ['las-toninas']
+tags: ['las-toninas', 'choclos']
 ---
 
-| **Datos**                    | /                             |
-| :--------------------------: | :-:                           |
-| **Nombre Y Apellido:**       | Griselda Vera / 24812685      |
-| **V o T:**                   | Titular                       |
-| **Numero Unico:**            | 077345                        |
-| **Localidad y Direccion:**   | Las Toninas / Calle 29 y 7 |
-| **Telefono:**                | 2246554207                    |
-| **Rubro**                    | Choclos                       |
+|          **Datos**          |              /             |
+|:---------------------------:|:--------------------------:|
+| **Nombre, Apellido y DNI:** |  Griselda Vera / 24812685  |
+|          **V o T:**         |           Titular          |
+|      **Numero Unico:**      |           077345           |
+|  **Localidad y Direccion:** | Las Toninas / Calle 29 y 7 |
+|        **Telefono:**        |         2246554207         |
+|          **Rubro**          |           Choclos          |
 
-**Estado de Pago:** Pagada y Legal
+**Estado de Pago:** <span style="color:blue">**Completo y Legal**</span>
 
 **Correo:** N/A

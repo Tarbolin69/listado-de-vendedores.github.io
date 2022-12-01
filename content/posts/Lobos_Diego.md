@@ -1,19 +1,19 @@
 ---
-title: Diego Lobos
-date: November 7, 2022
+title: 800345 | Diego Lobos | 22512806
+date: Noviembre 7, 2022
 draft: false
-tags: ['mar-del-tuyu']
+tags: ['mar-del-tuyu', 'licuados']
 ---
 
-| **Datos**                    | /                      |
-| :--------------------------: | :-:                    |
-| **Nombre Y Apelido:**       | Diego lobos / 22512806 |
-| **V o T:**                   | Titular                |
-| **Numero Unico:**            | 800345                 |
-| **Localidad y Direccion:**   | Mar del Tuyu           |
-| **Telefono:**                | 2246441282             |
-| **Rubro**                    | Licuados               |
+|          **Datos**         |            /           |
+|:--------------------------:|:----------------------:|
+| **Nombre, Apelido y DNI:** | Diego lobos / 22512806 |
+|         **V o T:**         |         Titular        |
+|      **Numero Unico:**     |         800345         |
+| **Localidad y Direccion:** |      Mar del Tuyu      |
+|        **Telefono:**       |       2246441282       |
+|          **Rubro**         |        Licuados        |
 
-**Estado de Pago:** Completo
+**Estado de Pago:** <span style="color:green">**Completo**</span>
 
 **Correo:** N/A
