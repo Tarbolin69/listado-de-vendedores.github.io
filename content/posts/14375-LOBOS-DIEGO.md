@@ -14,6 +14,6 @@ tags: ['mar-del-tuyu', 'licuados']
 |        **Telefono:**       |       2246441282       |
 |          **Rubro**         |        Licuados        |
 
-**Estado de Pago:** **Completo**
+**Estado de Pago:** **PAGO COMPLETO**
 
 **Correo:** N/A
