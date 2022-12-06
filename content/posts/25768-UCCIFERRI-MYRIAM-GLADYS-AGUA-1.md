@@ -12,8 +12,8 @@ tags: ['titular', 'agua-caliente', 'mar-del-tuyu']
 |      **Numero Único:**      |                  25768                 |
 |  **Localidad y Dirección:** |  Mar del Tuyu / 73 504 - MAR DEL TUYU  |
 |        **Teléfono:**        | [1165970685](https://wa.me/1165970685) |
-|          **Rubro**          |                 Agua Caliente                |
+|          **Rubro**          |              Agua Caliente             |
 
 **Estado de Pago:** Pagado en un 50%
 
-**Correo:** [Mandar Emial](mailto:myramprisci2815@gmail.com)
+**Correo:** [Mandar Emial](mailto:myram.prisci2815@gmail.com)

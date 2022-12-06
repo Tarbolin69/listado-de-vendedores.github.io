@@ -16,4 +16,4 @@ tags: ['titular', 'licuado', 'mar-del-tuyu']
 
 **Estado de Pago:** **PAGO COMPLETO**
 
-**Correo:** [Mandar Emial](mailto:myramprisci2815@gmail.com)
+**Correo:** [Mandar Emial](mailto:myram.prisci2815@gmail.com)
