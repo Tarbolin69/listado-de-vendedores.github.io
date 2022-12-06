@@ -1,6 +1,6 @@
 ---
 title: Title of the post
-date: {{ .Date | time.Format ":date_long" }}
+date: {{ .Date | time.Format ":date_short" }}
 draft: false
 tags: [tag names]
 ---
