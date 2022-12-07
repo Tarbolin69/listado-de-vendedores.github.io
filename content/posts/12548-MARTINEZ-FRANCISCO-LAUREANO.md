@@ -1,8 +1,8 @@
 ---
-title: Title of the post
-date: {{ .Date | time.Format ":date_short" }}
+title: 12548 | Martinez Francisco Ezequiel | 4.532.684
+date: 12/7/22
 draft: false
-tags: [tag names]
+tags: ['mar-del-tuyu', 'pancho']
 ---
 
 |          **Datos**          |  /  |
