@@ -14,6 +14,6 @@ tags: ['santa_teresita', 'choclos']
 |       **Teléfono:**        | [2246585735](https://wa.me/2246585735) |
 |         **Rubro**          |                Choclos                 |
 
-**Estado de Pago:** ***PAGO COMPLETO Y LEGAL***
+**Estado de Pago:** ***PAGO COMPLETO***
 
 **Correo:** N/A

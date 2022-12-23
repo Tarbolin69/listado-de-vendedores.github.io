@@ -14,6 +14,6 @@ tags: ['las-toninas', 'choclos']
 |        **Telefono:**        | [2246554207](https://wa.me/2246554207) |
 |          **Rubro**          |                Choclos                 |
 
-**Estado de Pago:** ***PAGO COMPLETO Y LEGAL***
+**Estado de Pago:** ***PAGO COMPLETO***
 
 **Correo:** N/A
