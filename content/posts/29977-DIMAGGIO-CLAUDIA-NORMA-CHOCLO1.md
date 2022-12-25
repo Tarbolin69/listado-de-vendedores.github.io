@@ -1,5 +1,5 @@
 ---
-title: 29977 | Dimaggio Claudia Norma | 18.196.711 | PANCHO-1
+title: 29977 | Dimaggio Claudia Norma | 18.196.711 | CHOCLO-1
 date: 12/8/22
 draft: false
 tags: ['titular', 'mar-del-tuyu', 'choclo']
