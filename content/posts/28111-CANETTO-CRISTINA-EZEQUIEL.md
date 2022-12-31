@@ -1,5 +1,5 @@
 ---
-title: 28111 | Canneto Cristina Ezequiel | 29.568.414
+title: 28111 | Canetto Cristina Ezequiel | 29.568.414
 date: 12/30/22
 draft: false
 tags: ['san-clemente-del-tuyu', 'pancho']
