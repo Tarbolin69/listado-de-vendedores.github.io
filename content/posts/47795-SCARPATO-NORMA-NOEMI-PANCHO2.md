@@ -14,6 +14,6 @@ tags: ['san-clemente-del-tuyu', 'pancho', 'titular']
 |        **Teléfono:**        |                          N/A                          |
 |          **Rubro**          |                        Panchos                        |
 
-**Estado de Pago:** Legal
+**Estado de Pago:** **PAGO COMPLETO**
 
 **Correo:** N/A
