@@ -8,7 +8,7 @@ tags: ['mar-del-tuyu', 'titular', 'pancho']
 |          **Datos**          |                /                |
 |:---------------------------:|:-------------------------------:|
 | **Nombre, Apellido y DNI:** | Vean Jose Abelardo / 35.874.013 |
-|          **V o T:**         |        Titular: 3 Pancho        |
+|          **V o T:**         |   Titular: 3 Pancho, 2 Choclo   |
 |      **Numero Único:**      |              01234              |
 |  **Localidad y Dirección:** |        Mar del Tuyú / N/A       |
 |        **Teléfono:**        |               N/A               |
