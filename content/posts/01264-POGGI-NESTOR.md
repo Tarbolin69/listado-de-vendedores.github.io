@@ -1,15 +1,15 @@
 ---
-title: 01256 | Ávila Ramon | 33.009.363 | CHOCLO-1
-date: 1/13/23
+title: 01264 | Poggi Néstor | 4.982.417
+date: 1/14/23
 draft: false
-tags: ['choclo', titular', 'zona-centro']
+tags: ['zona-centro', 'choclo']
 ---
 
 |          **Datos**          |             /            |
 |:---------------------------:|:------------------------:|
-| **Nombre, Apellido y DNI:** | Ávila Ramon / 33.009.363 |
-|          **V o T:**         |     Titular: 2 Choclo    |
-|      **Numero Único:**      |           01256          |
+| **Nombre, Apellido y DNI:** | Poggi Néstor / 4.982.417 |
+|          **V o T:**         |         Vendedor         |
+|      **Numero Único:**      |           01262          |
 |  **Localidad y Dirección:** |     Zona Centro / N/A    |
 |        **Teléfono:**        |            N/A           |
 |          **Rubro**          |          Choclos         |
