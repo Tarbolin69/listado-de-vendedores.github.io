@@ -2,7 +2,7 @@
 title: 01304 | Echeverria Lorena | 29.472.637
 date: 1/14/23
 draft: false
-tags: ['zona-centro', 'pancho']
+tags: ['zona-centro', 'choclo']
 ---
 
 |          **Datos**          |                /               |
@@ -12,7 +12,7 @@ tags: ['zona-centro', 'pancho']
 |      **Numero Único:**      |              01304             |
 |  **Localidad y Dirección:** |        Zona Centro / N/A       |
 |        **Teléfono:**        |               N/A              |
-|          **Rubro**          |             Panchos            |
+|          **Rubro**          |             Choclo             |
 
 **Estado de Pago:** **PAGO COMPLETO**
 
