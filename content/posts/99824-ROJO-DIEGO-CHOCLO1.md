@@ -12,7 +12,7 @@ tags: ['titular', 'zona-centro', 'choclo']
 |      **Numero Único:**      |                  99824                 |
 |  **Localidad y Dirección:** | Zona Centro / 50 N 1460 - Mar del Tuyu |
 |        **Teléfono:**        |                   N/A                  |
-|          **Rubro**          |                   Choclos                  |
+|          **Rubro**          |                 Choclos                |
 
 **Estado de Pago:** **PAGO COMPLETO**
 
