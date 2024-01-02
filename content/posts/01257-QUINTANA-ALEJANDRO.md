@@ -1,6 +1,6 @@
 ---
 title: 01257 | Quintana Alejandro | 22.453.387
-date: 1/13/23
+date: 13/1/23
 draft: false
 tags: ['zona-centro', 'choclo']
 ---

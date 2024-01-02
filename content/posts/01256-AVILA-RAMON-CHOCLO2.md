@@ -1,6 +1,6 @@
 ---
 title: 01256 | Ávila Ramon | 33.009.363 | CHOCLO-2
-date: 1/13/23
+date: 13/1/23
 draft: false
 tags: ['choclo', titular', 'zona-centro']
 ---
