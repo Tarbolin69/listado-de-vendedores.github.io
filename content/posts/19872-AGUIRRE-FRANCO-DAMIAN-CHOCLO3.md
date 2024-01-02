@@ -8,7 +8,7 @@ tags: ['titular', 'mar-del-tuyu', 'choclo']
 |          **Datos**          |                  /                 |
 |:---------------------------:|:----------------------------------:|
 | **Nombre, Apellido y DNI:** | Aguirre Franco Damian / 42.361.425 |
-|          **V o T:**         |          Titular: 3 Choclo         |
+|          **V o T:**         |          Titular: 3 Choclo, 1 Licuado         |
 |      **Numero Único:**      |                19872               |
 |  **Localidad y Dirección:** |         Mar del Tuyu / N/A         |
 |        **Teléfono:**        |                 N/A                |
