@@ -8,7 +8,7 @@ tags: ['titular', 'licuado', 'mar-del-tuyu']
 |          **Datos**          |                    /                    |
 |:---------------------------:|:---------------------------------------:|
 | **Nombre, Apellido y DNI:** | Szayner Maximiliano Nahuel / 40.139.289 |
-|          **V o T:**         |            Titular: Licuado 2           |
+|          **V o T:**         |            Titular: Licuado 4           |
 |      **Numero Único:**      |                  29894                  |
 |  **Localidad y Dirección:** |  Mar del Tuyu / 48 548 - SANTA TERESITA |
 |        **Teléfono:**        |                   N/A                   |
