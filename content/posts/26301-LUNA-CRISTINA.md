@@ -2,7 +2,7 @@
 title: 26301 | Luna Cristina | 30.872.347
 date: 1/29/23
 draft: false
-tags: ['santa-teresita', 'infusion']
+tags: ['santa-teresita', 'agua caliente']
 ---
 
 |          **Datos**          |              /             |
@@ -12,7 +12,7 @@ tags: ['santa-teresita', 'infusion']
 |      **Numero Único:**      |            26301           |
 |  **Localidad y Dirección:** |    Santa Teresita / N/A    |
 |        **Teléfono:**        |             N/A            |
-|          **Rubro**          |         Infusiones         |
+|          **Rubro**          |         Agua Caliente         |
 
 **Estado de Pago:** **PAGO COMPLETO**
 
