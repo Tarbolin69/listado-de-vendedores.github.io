@@ -2,7 +2,7 @@
 title: 01299 | Chavez Jose | 12.784.730
 date: 1/14/23
 draft: false
-tags: ['zona-centro', 'pancho']
+tags: ['zona-centro', 'choclo']
 ---
 
 |          **Datos**          |             /            |
@@ -12,7 +12,7 @@ tags: ['zona-centro', 'pancho']
 |      **Numero Único:**      |           01299          |
 |  **Localidad y Dirección:** |     Zona Centro / N/A    |
 |        **Teléfono:**        |            N/A           |
-|          **Rubro**          |          Panchos         |
+|          **Rubro**          |          Choclos         |
 
 **Estado de Pago:** **PAGO COMPLETO**
 
