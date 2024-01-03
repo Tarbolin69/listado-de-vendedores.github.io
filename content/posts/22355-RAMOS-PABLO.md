@@ -2,7 +2,7 @@
 title: 22355 | Ramos Pablo | 29.211.723
 date: 1/4/23
 draft: false
-tags: ['santa-teresita', 'infusion']
+tags: ['santa-teresita', 'vendedor', 'agua caliente']
 ---
 
 |          **Datos**          |               /               |
@@ -12,7 +12,7 @@ tags: ['santa-teresita', 'infusion']
 |      **Numero Único:**      |             22355             |
 |  **Localidad y Dirección:** | Santa Teresita 28/23 / 41 550 |
 |        **Teléfono:**        |              N/A              |
-|          **Rubro**          |           Infusiones          |
+|          **Rubro**          |           Agua Caliente          |
 
 **Estado de Pago:** **PAGO COMPLETO**
 
