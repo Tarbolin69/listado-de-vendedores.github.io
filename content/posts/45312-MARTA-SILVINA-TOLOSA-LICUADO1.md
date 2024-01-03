@@ -8,7 +8,7 @@ tags: ['titular', 'toninas', 'licuado' ]
 |          **Datos**          |                 /                 |
 |:---------------------------:|:---------------------------------:|
 | **Nombre, Apellido y DNI:** | Marta Silvina Tolosa / 21.855.002 |
-|          **V o T:**         |    Titular: 2 Choclo, 1 Licuado   |
+|          **V o T:**         |    Titular: 2 Infusion, 4 Choclo, 1 Licuado, 1 Pancho   |
 |      **Numero Único:**      |               45312               |
 |  **Localidad y Dirección:** |           Toninas / N/A           |
 |        **Teléfono:**        |                N/A                |
