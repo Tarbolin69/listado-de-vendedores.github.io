@@ -2,7 +2,7 @@
 title: 01315 | Arujo Luciana | 39.151.176
 date: 1/14/23
 draft: false
-tags: ['zona-centro', 'infusion']
+tags: ['zona-centro', 'agua caliente']
 ---
 
 |          **Datos**          |              /             |
@@ -12,7 +12,7 @@ tags: ['zona-centro', 'infusion']
 |      **Numero Único:**      |            01315           |
 |  **Localidad y Dirección:** |      Zona Centro / N/A     |
 |        **Teléfono:**        |             N/A            |
-|          **Rubro**          |          Infusión          |
+|          **Rubro**          |          Agua Caliente          |
 
 **Estado de Pago:** **PAGO COMPLETO**
 
