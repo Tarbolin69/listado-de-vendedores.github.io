@@ -2,7 +2,7 @@
 title: 26294 | Alvarado Aylen | 37.752.449
 date: 1/27/23
 draft: false
-tags: ['costa-del-este', 'choclo']
+tags: ['costa-del-este', 'licuado']
 ---
 
 |          **Datos**          |              /              |
@@ -12,7 +12,7 @@ tags: ['costa-del-este', 'choclo']
 |      **Numero Único:**      |            26294            |
 |  **Localidad y Dirección:** |     Costa del Este / N/A    |
 |        **Teléfono:**        |             N/A             |
-|          **Rubro**          |            Choclo           |
+|          **Rubro**          |            Licuado           |
 
 **Estado de Pago:** **PAGO COMPLETO**
 
