@@ -2,7 +2,7 @@
 title: 01320 | Quintana Oscar Emilio | 28.241.378
 date: 1/14/23
 draft: false
-tags: ['zona-centro', 'ensalada-de-fruta']
+tags: ['santa-teresita', 'choclo']
 ---
 
 |          **Datos**          |                  /                 |
@@ -10,9 +10,9 @@ tags: ['zona-centro', 'ensalada-de-fruta']
 | **Nombre, Apellido y DNI:** | Quintana Oscar Emilio / 28.241.378 |
 |          **V o T:**         |              Vendedor              |
 |      **Numero Único:**      |                01320               |
-|  **Localidad y Dirección:** |          Zona Centro / N/A         |
+|  **Localidad y Dirección:** |          Santa Teresita / N/A         |
 |        **Teléfono:**        |                 N/A                |
-|          **Rubro**          |          Ensalada de Fruta         |
+|          **Rubro**          |          Choclo         |
 
 **Estado de Pago:** **PAGO COMPLETO**
 
