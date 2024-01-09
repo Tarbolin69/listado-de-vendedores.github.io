@@ -1,5 +1,5 @@
 ---
-title: 22300 | Gonzalez Magaly | 37.674.222 | CHURRO-2
+title: 22301 | Gonzalez Magaly | 37.674.222 | CHURRO-2
 date: 1/4/23
 draft: false
 tags: ['santa-teresita', 'churro', 'titular']
@@ -9,7 +9,7 @@ tags: ['santa-teresita', 'churro', 'titular']
 |:---------------------------:|:----------------------------:|
 | **Nombre, Apellido y DNI:** | Gonzalez Magaly / 37.674.222 |
 |          **V o T:**         |       Titular: 2 Churro      |
-|      **Numero Único:**      |             22300            |
+|      **Numero Único:**      |             22301            |
 |  **Localidad y Dirección:** |    Santa Teresita / 41 6 435    |
 |        **Teléfono:**        |              N/A             |
 |          **Rubro**          |            Churros           |

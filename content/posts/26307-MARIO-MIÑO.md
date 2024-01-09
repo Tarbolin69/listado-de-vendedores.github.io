@@ -2,7 +2,7 @@
 title: 26307 | Mario Miño | 26.152.121
 date: 1/29/23
 draft: false
-tags: ['zona-centro', 'panificados']
+tags: ['santa-teresita', 'producto-de-miel']
 ---
 
 |          **Datos**          |            /            |
@@ -10,9 +10,9 @@ tags: ['zona-centro', 'panificados']
 | **Nombre, Apellido y DNI:** | Mario Miño / 26.152.121 |
 |          **V o T:**         |         Vendedor        |
 |      **Numero Único:**      |          26307          |
-|  **Localidad y Dirección:** |    Zona Centro / N/A    |
+|  **Localidad y Dirección:** |    Santa Teresita / N/A    |
 |        **Teléfono:**        |           N/A           |
-|          **Rubro**          |       Panificados       |
+|          **Rubro**          |       Producto de miel       |
 
 **Estado de Pago:** **PAGO COMPLETO**
 
